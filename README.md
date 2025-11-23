@@ -949,7 +949,21 @@ Operation Speed (typical laptop):
 - Calculate habit frequency: <0.3 seconds
 - Load/save JSON: <0.05 seconds
 ```
-
+## PROJECT SCREENSHOT
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20211739.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20211805.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20211857.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20211928.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20211954.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212030.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212105.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212142.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212209.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212248.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212601.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212621.png)
+![](https://github.com/chinmaymohapatra2006/Habit-Tracker/blob/main/PROJECT-SCREENSHOTS/Screenshot%202025-11-23%20212637.png)
+![]()
 ---
 
 ## Future Enhancements
